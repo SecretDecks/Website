@@ -5,19 +5,19 @@ Virtual collectables from original interpretations of the Tarot. Conjured in a D
 ### WTF is Tarot?
 Tarot is the book of Thot (ancient Egyption god) that encodes primordial knowledge in a card deck.
 
-# Founder's Chest Drop
+## Founder's Chest Drop
 Support the SecretDecks Metaverse and recieve a founders chest with wondrous wares insdide!
 
 ### Founders Chests' can be opened earlierst 24h before the first deck drop.
 [Get Chest]
 
-# Chest Table
+## Chest Table
 [Get Chest]
 
-# Founders Orb
+## Founders Orb
 Upon opening your chest, a glowing sphere like entity will materialize and signal to the metaverse your role in its creation!
 
-# "Pullcoupons"
+## "Pullcoupons"
 What's that other item sparkling in your chest?  Yes, that is your "PULLCOUPON." Depending on the rarity, it allows you to have a pull on the respective levels of the SecretDecks drop, without paying for the pull!
 
 [Be a Founder]
