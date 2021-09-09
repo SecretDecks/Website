@@ -6,7 +6,7 @@ Virtual collectables from original interpretations of the Tarot. Conjured in a D
 Tarot is the book of Thot (ancient Egyption god) that encodes primordial knowledge in a card deck.
 
 ## Founder's Chest Drop
-Support the SecretDecks Metaverse and recieve a founders chest with wondrous wares insdide!
+Support the SecretDecks Metaverse and recieve a founders chest with wondrous wares inside!
 
 ### Founders Chests' can be opened earlierst 24h before the first deck drop.
 [Get Chest]
