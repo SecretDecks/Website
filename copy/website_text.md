@@ -5,7 +5,7 @@ Virtual collectables from original interpretations of the Tarot. Conjured in a D
 ### WTF is Tarot?
 Tarot is the book of Thot (ancient Egyption god) that encodes primordial knowledge in a card deck.
 
-## Founder's Chest Drop
+## Founder's  Drop
 Support the SecretDecks Metaverse and recieve a founders chest with wondrous wares inside!
 
 ### Elements become active earlierst 24h before the first deck drop.
